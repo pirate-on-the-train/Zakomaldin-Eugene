@@ -1,2 +1,2 @@
-# Zakomaldin-Eugenue
+# Zakomaldin-Eugene
 Репозиторий для проектов и кода группы Ин3. Закомалдин Евгений
